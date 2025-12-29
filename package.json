@@ -9,11 +9,12 @@
   },
   "keywords": [
     "javscript",
-    "backend" 
+    "backend"
   ],
   "author": "tilak maheshwari",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "prettier": "^3.7.4"
   }
 }
